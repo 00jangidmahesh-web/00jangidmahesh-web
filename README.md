@@ -39,7 +39,7 @@
 # Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,c,c++,mysql,html,css,tailwind,git,github,vscode,llm,rag" />
 </p>
 
 ---
