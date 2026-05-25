@@ -1,24 +1,24 @@
-<h1 align="center">Hi , I'm Mahesh Kumar Jangid</h1>
+<h1 align="center">Hi 👋, I'm Mahesh Kumar Jangid</h1>
 <h3 align="center">MSc Mathematics & Computing Student at IIT (ISM) Dhanbad</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Science+Enthusiast;Aspiring+Data+Analyst;Competitive+Programmer;MERN+Stack+Learner;Open+Source+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Aspiring+Data+Scientist;Data+Analytics+Enthusiast;MERN+Stack+Learner;Competitive+Programmer;Open+Source+Explorer" />
 </p>
 
 ---
 
-##  About Me
+## 🚀 About Me
 
--  Pursuing **MSc in Mathematics & Computing** at **IIT (ISM) Dhanbad**
--  Passionate about **Data Science, AI & Analytics**
--  Learning **Full Stack Development & DSA**
--  Currently exploring **Machine Learning & Open Source**
--  Interested in solving real-world problems using technology
--  Fun Fact: I love **Cricket 🏏 & Tech**
+- 🎓 Pursuing **MSc in Mathematics & Computing** at **IIT (ISM) Dhanbad**
+- 📊 Interested in **Data Science, Machine Learning & Analytics**
+- 💻 Learning **Full Stack Web Development & DSA**
+- 🌱 Exploring **Open Source Contributions**
+- 🧠 Passionate about solving real-world problems using technology
+- 🏏 Love **Cricket, Coding & Tech**
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mahesh-kumar-jangid-22b375306" target="blank">
@@ -36,7 +36,7 @@
 
 ---
 
-# Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,html,css,tailwind,git,github,vscode" />
@@ -44,17 +44,15 @@
 
 ---
 
-# GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=00jangidmahesh-web&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=00jangidmahesh-web&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
 ---
 
-# Most Used Languages
+# 🧠 Most Used Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00jangidmahesh-web&layout=compact&theme=tokyonight&hide_border=true" />
@@ -62,33 +60,32 @@
 
 ---
 
-# Achievements
+# 🏆 Achievements
 
- Secured **AIR 314** in **IIT JAM 2024 (Mathematics)**
- Pursuing higher studies at **IIT (ISM) Dhanbad**
- Led and participated in competitive sports events
- Continuously improving coding & development skills
-
----
-
-# Featured Projects
-
-## AI Horror Story Generator
-- Cinematic AI horror story and video generation workflow
-- AI-generated characters, scenes & storytelling
-
-## Data Analytics Dashboard
-- Analytics dashboard using Python and visualization tools
-- Data cleaning, processing & insights generation
-
-## Portfolio Website
-- Personal responsive portfolio website
-- Built using modern frontend technologies
+- 🥇 Secured **AIR 314** in **IIT JAM 2024 (Mathematics)**
+- 🎓 Pursuing higher studies at **IIT (ISM) Dhanbad**
+- 🏏 Participated in competitive sports & team events
+- 📚 Continuously improving coding and development skills
 
 ---
 
+# 🚀 Featured Projects
 
-# Quote
+## 👻 AI Horror Story Generator
+- AI-powered cinematic horror story generation workflow
+- Scene creation, storytelling & character generation using AI tools
+
+## 📊 Data Analytics Dashboard
+- Built analytics dashboards using Python and visualization tools
+- Performed data cleaning, analysis & insights generation
+
+## 🌐 Portfolio Website
+- Responsive personal portfolio website
+- Developed using modern frontend technologies
+
+---
+
+# ✨ Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -96,14 +93,6 @@
 
 ---
 
-# Profile Views
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=00jangidmahesh-web&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-<p align="center">
-From <a href="https://github.com/00jangidmahesh-web">Mahesh Kumar Jangid</a>
+⭐ From <a href="https://github.com/00jangidmahesh-web">Mahesh Kumar Jangid</a>
 </p>
