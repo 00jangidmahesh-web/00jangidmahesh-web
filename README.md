@@ -75,11 +75,6 @@
 - Built analytics dashboards using Python and visualization tools
 - Performed data cleaning, analysis & insights generation
 
-##  Portfolio Website
-- Responsive personal portfolio website
-- Developed using modern frontend technologies
-
----
 
 #  Quote
 
